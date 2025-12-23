@@ -1,0 +1,12 @@
+# Проекты
+
+## Одностраничные макеты на html и css:
+
+* [Simple portfolio](https://sensacommune.github.io/Simple-portfolio/) Ссылка на код: https://github.com/Sensacommune/Simple-portfolio
+* [Cuberpunk 2077 landing](https://sensacommune.github.io/Cyberpunk2077/) Ссылка на код: https://github.com/Sensacommune/Cyberpunk2077
+
+## JavaScript:
+
+* [Тетрис](https://sensacommune.github.io/Tetris/) Ссылка на код: https://github.com/Sensacommune/Tetris
+* [Калькулятор](https://sensacommune.github.io/Calculator/) Ссылка на код: https://github.com/Sensacommune/Calculator
+
