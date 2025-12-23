@@ -11,4 +11,4 @@
 * [Калькулятор](https://sensacommune.github.io/Calculator/) Ссылка на код: https://github.com/Sensacommune/Calculator
 
 ## Languages:
-![JavaScript](https://img.shields.io/badge/-JavaScript-FFFF00?[https://img.shields.io/badge/just%20the%20message-8A2BE2](https://img.shields.io/badge/github-repo-blue?logo=JavaScript))
+![JavaScript](https://img.shields.io/badge/-JavaScript-FFFF00?[https://img.shields.io/badge/just%20the%20message-8A2BE2](https://img.shields.io/badge/JavaScript-blue?logo=JavaScript))
