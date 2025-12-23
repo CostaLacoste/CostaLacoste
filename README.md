@@ -12,4 +12,4 @@
 
 ## Languages:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-FFFF00?[https://img.shields.io/badge/just%20the%20message-8A2BE2](https://img.shields.io/badge/JavaScript-blue?logo=JavaScript))
-![Python](https://img.shields.io/badge/-JavaScript-00BFFF?[https://img.shields.io/badge/just%20the%20message-8A2BE2](https://img.shields.io/badge/Python-blue?logo=Python))
+![Python](https://img.shields.io/badge/-Python-00BFFF?[https://img.shields.io/badge/just%20the%20message-8A2BE2](https://img.shields.io/badge/Python-blue?logo=Python))
