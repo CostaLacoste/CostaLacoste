@@ -10,3 +10,5 @@
 * [Тетрис](https://sensacommune.github.io/Tetris/) Ссылка на код: https://github.com/Sensacommune/Tetris
 * [Калькулятор](https://sensacommune.github.io/Calculator/) Ссылка на код: https://github.com/Sensacommune/Calculator
 
+## Languages:
+![JavaScript](https://img.shields.io/badge/:badgeContent)
