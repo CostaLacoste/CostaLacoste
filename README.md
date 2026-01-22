@@ -9,7 +9,8 @@
 
 * [Тетрис](https://costalacoste.github.io/Tetris/) Ссылка на код: https://github.com/CostaLacoste/Tetris
 * [Калькулятор](https://costalacoste.github.io/Calculator/) Ссылка на код: https://github.com/CostaLacoste/Calculator
-* [Конвертер температур](https://costalacoste.github.io/Temperature-converter/) Ссылка на код: https://github.com/CostaLacoste/Temperature-converter
+* [Конвентер температур](https://costalacoste.github.io/Temperature-converter/) Ссылка на код: https://github.com/CostaLacoste/Temperature-converter
+* [Конвентер валют](https://costalacoste.github.io/Currency-converter/) Ссылка на код: https://github.com/CostaLacoste/Currency-converter
 
 ### Проект с настройкой окружения:
 [Игры разума](https://github.com/CostaLacoste/frontend-project-44)
