@@ -21,6 +21,6 @@
 ### My social media:
 ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white) ![Snapchat](https://img.shields.io/badge/Snapchat-%23FFFC00.svg?style=for-the-badge&logo=Snapchat&logoColor=white) ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CostaLacoste)](https://github.com/CostaLacoste/github-readme-stats) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CostaLacoste&layout=compact)](https://github.com/CostaLacoste/github-readme-stats)
 
 [![codewars](https://www.codewars.com/users/CostaLacoste/badges/small)](https://www.codewars.com/users/CostaLacoste) 
