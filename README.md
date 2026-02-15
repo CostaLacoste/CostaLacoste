@@ -29,6 +29,6 @@
   <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
 </a>
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=CostaLacoste&theme=solarized_dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CostaLacoste&layout=compact)](https://github.com/CostaLacoste/github-readme-stats)
 
 [![codewars](https://www.codewars.com/users/CostaLacoste/badges/small)](https://www.codewars.com/users/CostaLacoste) 
