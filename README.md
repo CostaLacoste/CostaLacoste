@@ -29,6 +29,6 @@
   <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
 </a>
 
-![Bogdan's GitHub stats](https://github-readme-stats.vercel.app/api?username=CostaLacoste&theme=cobalt&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CostaLacoste&show_icons=true&theme=radical)
 
 [![codewars](https://www.codewars.com/users/CostaLacoste/badges/small)](https://www.codewars.com/users/CostaLacoste) 
