@@ -29,6 +29,6 @@
   <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
 </a>
 
-![Top Langs](https://github-stats-psiyavushs-projects.vercel.app/api/top-langs/?username=CostaLacoste&langs_count=8)
+![Top Langs](https://github-stats-psiyavushs-projects.vercel.app/api/top-langs/?username=CostaLacoste&langs_count=8) [![Harlok's WakaTime stats](https://github-stats-psiyavushs-projects.vercel.app/api/wakatime?username=CostaLacoste)](https://github.com/CostaLacoste/github-stats)
 
 [![codewars](https://www.codewars.com/users/CostaLacoste/badges/small)](https://www.codewars.com/users/CostaLacoste) 
