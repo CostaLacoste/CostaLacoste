@@ -12,8 +12,9 @@
 * [Конвентер температур](https://costalacoste.github.io/Temperature-converter/) Ссылка на код: https://github.com/CostaLacoste/Temperature-converter
 * [Конвентер валют](https://costalacoste.github.io/Currency-converter/) Ссылка на код: https://github.com/CostaLacoste/Currency-converter
 
-### Проект с настройкой окружения:
+### Проекты с настройкой окружения:
 [Игры разума](https://github.com/CostaLacoste/frontend-project-44)
+[Вычислитель отличий](https://github.com/CostaLacoste/frontend-project-46)
 
 ### React:
 [Wedding](https://costalacoste.github.io/Wedding/) Код: https://github.com/CostaLacoste/Wedding
