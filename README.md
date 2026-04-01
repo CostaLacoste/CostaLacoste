@@ -15,6 +15,7 @@
 ### Проекты с настройкой окружения:
 [Игры разума](https://github.com/CostaLacoste/frontend-project-44)
 [Вычислитель отличий](https://github.com/CostaLacoste/frontend-project-46)
+[RSS Агрегатор](https://github.com/CostaLacoste/frontend-project-11)
 
 ### React:
 [Wedding](https://costalacoste.github.io/Wedding/) Код: https://github.com/CostaLacoste/Wedding
