@@ -14,7 +14,6 @@
 
 ### Проекты с настройкой окружения:
 [Игры разума](https://github.com/CostaLacoste/frontend-project-44)
-
 [Вычислитель отличий](https://github.com/CostaLacoste/frontend-project-46)
 
 ### React:
