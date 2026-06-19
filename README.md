@@ -13,7 +13,7 @@
 </a>
 
 
-### Одностраничные макеты html, css:
+### One page projects html, css:
 
 * [Simple portfolio](https://costalacoste.github.io/Simple-portfolio/) Ссылка на код: https://github.com/CostaLacoste/Simple-portfolio
 * [Cuberpunk 2077 landing](https://costalacoste.github.io/Cyberpunk2077/) Ссылка на код: https://github.com/CostaLacoste/Cyberpunk2077
@@ -25,7 +25,7 @@
 * [Конвентер температур](https://costalacoste.github.io/Temperature-converter/) Ссылка на код: https://github.com/CostaLacoste/Temperature-converter
 * [Конвентер валют](https://costalacoste.github.io/Currency-converter/) Ссылка на код: https://github.com/CostaLacoste/Currency-converter
 
-### Проекты с настройкой окружения:
+### Projects with enviroment setup:
 [Игры разума](https://github.com/CostaLacoste/frontend-project-44)
 [Вычислитель отличий](https://github.com/CostaLacoste/frontend-project-46)
 [RSS Агрегатор](https://github.com/CostaLacoste/frontend-project-11)
