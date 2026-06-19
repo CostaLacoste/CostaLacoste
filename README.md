@@ -40,7 +40,7 @@
 
 
 ### My statistics:
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CostaLacoste&show_icons=true)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CostaLacoste)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CostaLacoste&layout=pie)](https://github.com/CostaLacoste/github-readme-stats)
 
