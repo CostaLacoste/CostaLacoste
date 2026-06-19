@@ -1,4 +1,4 @@
-# Hi! i'm Bogdan, full stack developer, QA engineer and data analyst from Cyprus.
+# Hi! i'm Bogdan, full stack developer, QA engineer and data analyst.
 <a href="https://discord.com/users/931080683609260053">
   <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
 </a>
