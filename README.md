@@ -15,25 +15,27 @@
 
 ### One page projects html, css:
 
-* [Simple portfolio](https://costalacoste.github.io/Simple-portfolio/) Ссылка на код: https://github.com/CostaLacoste/Simple-portfolio
-* [Cuberpunk 2077 landing](https://costalacoste.github.io/Cyberpunk2077/) Ссылка на код: https://github.com/CostaLacoste/Cyberpunk2077
+* [Simple portfolio](https://costalacoste.github.io/Simple-portfolio/) Code: https://github.com/CostaLacoste/Simple-portfolio
+* [Cuberpunk 2077 landing](https://costalacoste.github.io/Cyberpunk2077/) Code: https://github.com/CostaLacoste/Cyberpunk2077
 
-### JavaScript:
+### Pure JavaScript:
 
-* [Тетрис](https://costalacoste.github.io/Tetris/) Ссылка на код: https://github.com/CostaLacoste/Tetris
-* [Калькулятор](https://costalacoste.github.io/Calculator/) Ссылка на код: https://github.com/CostaLacoste/Calculator
-* [Конвентер температур](https://costalacoste.github.io/Temperature-converter/) Ссылка на код: https://github.com/CostaLacoste/Temperature-converter
-* [Конвентер валют](https://costalacoste.github.io/Currency-converter/) Ссылка на код: https://github.com/CostaLacoste/Currency-converter
+* [Tetris](https://costalacoste.github.io/Tetris/) Code: https://github.com/CostaLacoste/Tetris
+* [Calculator](https://costalacoste.github.io/Calculator/) Code: https://github.com/CostaLacoste/Calculator
+* [Temperature contenter](https://costalacoste.github.io/Temperature-converter/) Code: https://github.com/CostaLacoste/Temperature-converter
+* [Currency conventer](https://costalacoste.github.io/Currency-converter/) Code: https://github.com/CostaLacoste/Currency-converter
 
 ### Projects with enviroment setup:
-[Игры разума](https://github.com/CostaLacoste/frontend-project-44)
-[Вычислитель отличий](https://github.com/CostaLacoste/frontend-project-46)
-[RSS Агрегатор](https://github.com/CostaLacoste/frontend-project-11)
+[Brain games](https://github.com/CostaLacoste/frontend-project-44)
+[Difference calculator](https://github.com/CostaLacoste/frontend-project-46)
+[RSS agregator](https://github.com/CostaLacoste/frontend-project-11)
 
 ### React:
-[Wedding](https://costalacoste.github.io/Wedding/) Код: https://github.com/CostaLacoste/Wedding
+[Wedding](https://costalacoste.github.io/Wedding/) Code: https://github.com/CostaLacoste/Wedding
 
 [Chat](https://github.com/CostaLacoste/frontend-project-12)
+
+[Tip Tap Toe](https://github.com/CostaLacoste/Tic-Tac-Toe)
 
 🛠 Skills
 
