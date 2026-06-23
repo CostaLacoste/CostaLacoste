@@ -11,6 +11,9 @@
 <a href="https://www.linkedin.com/in/bogdan-mikhankov-05a809270?utm_source=share_via&utm_content=profile&utm_medium=member_ios">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
+<a href="https://x.com/CostaLacoste1">
+  <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="X">
+</a>
 
 
 ### One page projects html, css:
