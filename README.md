@@ -14,12 +14,14 @@
 <a href="https://x.com/CostaLacoste1">
   <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="X">
 </a>
-
+<br />
 
 ### One page projects html, css:
 
 * [Simple portfolio](https://costalacoste.github.io/Simple-portfolio/) Code: https://github.com/CostaLacoste/Simple-portfolio
 * [Cuberpunk 2077 landing](https://costalacoste.github.io/Cyberpunk2077/) Code: https://github.com/CostaLacoste/Cyberpunk2077
+
+<br />
 
 ### Pure JavaScript:
 
@@ -28,10 +30,14 @@
 * [Temperature contenter](https://costalacoste.github.io/Temperature-converter/) Code: https://github.com/CostaLacoste/Temperature-converter
 * [Currency conventer](https://costalacoste.github.io/Currency-converter/) Code: https://github.com/CostaLacoste/Currency-converter
 
+<br />
+
 ### Projects with enviroment setup:
 [Brain games](https://github.com/CostaLacoste/frontend-project-44)
 [Difference calculator](https://github.com/CostaLacoste/frontend-project-46)
 [RSS agregator](https://github.com/CostaLacoste/frontend-project-11)
+
+<br />
 
 ### React:
 [Wedding](https://costalacoste.github.io/Wedding/) Code: https://github.com/CostaLacoste/Wedding
@@ -40,10 +46,14 @@
 
 [Tip Tap Toe](https://github.com/CostaLacoste/Tic-Tac-Toe)
 
+<br />
+
 🛠 Skills
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![Google Colab](https://img.shields.io/badge/Google%20Colab-%23F9A825.svg?style=for-the-badge&logo=googlecolab&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 
+
+<br />
 
 ### My statistics:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CostaLacoste&show_icons=true)
