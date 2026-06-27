@@ -37,9 +37,7 @@
 
 ### React:
 [Wedding](https://costalacoste.github.io/Wedding/) Code: https://github.com/CostaLacoste/Wedding
-
 [Chat](https://github.com/CostaLacoste/frontend-project-12)
-
 [Tip Tap Toe](https://github.com/CostaLacoste/Tic-Tac-Toe)
 
 
