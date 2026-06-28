@@ -42,7 +42,7 @@
 
 [Chat](https://frontend-project-11-nine-blue.vercel.app/) Code: https://github.com/CostaLacoste/frontend-project-11
 
-[Tip Tap Toe](https://github.com/CostaLacoste/Tic-Tac-Toe)
+[Tip Tap Toe](https://CostaLacoste.github.io/Tic-Tac-Toe) Code: https://github.com/CostaLacoste/Tic-Tac-Toe
 
 
 🛠 Skills
