@@ -30,9 +30,9 @@
 
 
 ### Projects with enviroment setup:
-[Brain games](https://github.com/CostaLacoste/frontend-project-44)
-[Difference calculator](https://github.com/CostaLacoste/frontend-project-46)
-[RSS agregator](https://github.com/CostaLacoste/frontend-project-11)
+* [Brain games](https://github.com/CostaLacoste/frontend-project-44)
+* [Difference calculator](https://github.com/CostaLacoste/frontend-project-46)
+* [RSS agregator](https://github.com/CostaLacoste/frontend-project-11)
 
 
 ### React:
