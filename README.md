@@ -40,7 +40,7 @@
 
 [Food delivery website](https://costalacoste.github.io/Food-delivery-website/) Code: https://github.com/CostaLacoste/Food-delivery-website
 
-[Chat](https://github.com/CostaLacoste/frontend-project-12)
+[Chat](https://frontend-project-11-nine-blue.vercel.app/) Code: https://github.com/CostaLacoste/frontend-project-11
 
 [Tip Tap Toe](https://github.com/CostaLacoste/Tic-Tac-Toe)
 
