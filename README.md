@@ -36,13 +36,10 @@
 
 
 ### React:
-[Wedding](https://costalacoste.github.io/Wedding/) Code: https://github.com/CostaLacoste/Wedding
-
-[Food delivery website](https://costalacoste.github.io/Food-delivery-website/) Code: https://github.com/CostaLacoste/Food-delivery-website
-
-[Chat](https://frontend-project-11-nine-blue.vercel.app/) Code: https://github.com/CostaLacoste/frontend-project-11
-
-[Tip Tap Toe](https://CostaLacoste.github.io/Tic-Tac-Toe) Code: https://github.com/CostaLacoste/Tic-Tac-Toe
+* [Wedding](https://costalacoste.github.io/Wedding/) Code: https://github.com/CostaLacoste/Wedding
+* [Food delivery website](https://costalacoste.github.io/Food-delivery-website/) Code: https://github.com/CostaLacoste/Food-delivery-website
+* [Chat](https://frontend-project-11-nine-blue.vercel.app/) Code: https://github.com/CostaLacoste/frontend-project-11
+* [Tip Tap Toe](https://CostaLacoste.github.io/Tic-Tac-Toe) Code: https://github.com/CostaLacoste/Tic-Tac-Toe
 
 
 🛠 Skills
