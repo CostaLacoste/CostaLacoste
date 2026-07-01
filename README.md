@@ -8,7 +8,7 @@
 <a href="https://t.me/Sensacommune">
   <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
 </a>
-<a href="https://www.linkedin.com/in/bogdan-mikhankov-05a809270?utm_source=share_via&utm_content=profile&utm_medium=member_ios">
+<a href="www.linkedin.com/in/bogdan-mikhankov-2555a5411">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 <a href="https://x.com/CostaLacoste1">
