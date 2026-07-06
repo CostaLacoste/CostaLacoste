@@ -42,6 +42,10 @@
 * [Tip Tap Toe](https://CostaLacoste.github.io/Tic-Tac-Toe) Code: https://github.com/CostaLacoste/Tic-Tac-Toe
 * [Qiuz app](https://costalacoste.github.io/Quiz-app/) Code: https://github.com/CostaLacoste/Quiz-app
 
+### Data analysis:
+* [Data exploration scoring](https://github.com/CostaLacoste/Data-exploration-for-financial-scoring)
+* [Operations analytics dashboard](https://github.com/CostaLacoste/Operations-Analytics-Dashboard)
+
 
 🛠 Skills and tools
 
