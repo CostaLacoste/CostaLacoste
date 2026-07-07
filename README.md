@@ -54,8 +54,8 @@
 
 <b>My GitHub Stats</b>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CostaLacoste)](https://github.com/CostaLacoste/github-readme-stats)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/CostaLacoste)  
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=CostaLacoste)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CostaLacoste)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CostaLacoste&layout=compact)](https://github.com/CostaLacoste/github-readme-stats)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=CostaLacoste&show_icons=true&count_private=true)
