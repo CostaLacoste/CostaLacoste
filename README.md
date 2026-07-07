@@ -54,8 +54,4 @@
 
 <b>My GitHub Stats</b>
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/CostaLacoste)  
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CostaLacoste)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=CostaLacoste&show_icons=true&count_private=true)
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=CostaLacoste&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
