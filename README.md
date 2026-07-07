@@ -54,7 +54,7 @@
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/CostaLacoste"><img src="https://github-readme-stats.vercel.app/api?username=CostaLacoste&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="CostaLacoste's GitHub stats" /></a>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CostaLacoste)](https://github.com/CostaLacoste/github-readme-stats)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=CostaLacoste)](https://git.io/streak-stats)
 
