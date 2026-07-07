@@ -53,8 +53,8 @@
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/CostaLacoste"><img src="https://github-readme-stats.vercel.app/api?username=CostaLacoste&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="CostaLacoste's GitHub stats" /></a>
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=CostaLacoste&langs_count=8&theme=default_repocard)](https://github-stats-extended.vercel.app/api/top-langs?username=CostaLacoste&langs_count=8&theme=default_repocard)
 
-<a href="http://www.github.com/CostaLacoste"><img src="https://streak-stats.demolab.com/?user=CostaLacoste&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=CostaLacoste&show_icons=true&include_all_commits=true&theme=default_repocard)](https://github-stats-extended.vercel.app/api?username=CostaLacoste&show_icons=true&include_all_commits=true&theme=default_repocard)
 
-<a href="https://github.com/CostaLacoste" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CostaLacoste&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" /></a>
+
