@@ -41,6 +41,7 @@
 * [Chat](https://frontend-project-11-nine-blue.vercel.app/) Code: https://github.com/CostaLacoste/frontend-project-11
 * [Tip Tap Toe](https://CostaLacoste.github.io/Tic-Tac-Toe) Code: https://github.com/CostaLacoste/Tic-Tac-Toe
 * [Qiuz app](https://costalacoste.github.io/Quiz-app/) Code: https://github.com/CostaLacoste/Quiz-app
+* [Weather app](https://costalacoste.github.io/Weather-app/) Code: https://github.com/CostaLacoste/Weather-app
 
 ### Data analysis:
 * [Data exploration scoring](https://github.com/CostaLacoste/Data-exploration-for-financial-scoring)
