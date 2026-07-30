@@ -43,6 +43,9 @@
 * [Qiuz app](https://costalacoste.github.io/Quiz-app/) Code: https://github.com/CostaLacoste/Quiz-app
 * [Weather app](https://costalacoste.github.io/Weather-app/) Code: https://github.com/CostaLacoste/Weather-app
 
+### Vue:
+* [Perfume e-shop](https://unique-basbousa-c4e8ef.netlify.app/) Code: https://github.com/CostaLacoste/e-commerce
+
 ### Data analysis:
 * [Data exploration scoring](https://github.com/CostaLacoste/Data-exploration-for-financial-scoring)
 * [Operations analytics dashboard](https://github.com/CostaLacoste/Operations-Analytics-Dashboard)
