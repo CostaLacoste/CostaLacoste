@@ -25,8 +25,8 @@
 
 * [Tetris](https://costalacoste.github.io/Tetris/) Code: https://github.com/CostaLacoste/Tetris
 * [Calculator](https://costalacoste.github.io/Calculator/) Code: https://github.com/CostaLacoste/Calculator
-* [Temperature contenter](https://costalacoste.github.io/Temperature-converter/) Code: https://github.com/CostaLacoste/Temperature-converter
-* [Currency conventer](https://costalacoste.github.io/Currency-converter/) Code: https://github.com/CostaLacoste/Currency-converter
+* [Temperature converter](https://costalacoste.github.io/Temperature-converter/) Code: https://github.com/CostaLacoste/Temperature-converter
+* [Currency converter](https://costalacoste.github.io/Currency-converter/) Code: https://github.com/CostaLacoste/Currency-converter
 
 
 ### Projects with enviroment setup:
@@ -37,14 +37,14 @@
 
 ### React:
 * [Wedding](https://costalacoste.github.io/Wedding/) Code: https://github.com/CostaLacoste/Wedding
-* [Food delivery website](https://costalacoste.github.io/Food-delivery-website/) Code: https://github.com/CostaLacoste/Food-delivery-website
 * [Chat](https://frontend-project-11-nine-blue.vercel.app/) Code: https://github.com/CostaLacoste/frontend-project-11
 * [Tip Tap Toe](https://CostaLacoste.github.io/Tic-Tac-Toe) Code: https://github.com/CostaLacoste/Tic-Tac-Toe
 * [Qiuz app](https://costalacoste.github.io/Quiz-app/) Code: https://github.com/CostaLacoste/Quiz-app
 * [Weather app](https://costalacoste.github.io/Weather-app/) Code: https://github.com/CostaLacoste/Weather-app
 
-### Vue:
+### Full-Stack projects:
 * [Perfume e-shop](https://unique-basbousa-c4e8ef.netlify.app/) Code: https://github.com/CostaLacoste/e-commerce
+* * [Food delivery website](https://costalacoste.github.io/Food-delivery-website/) Code: https://github.com/CostaLacoste/Food-delivery-website
 
 ### Data analysis:
 * [Data exploration scoring](https://github.com/CostaLacoste/Data-exploration-for-financial-scoring)
