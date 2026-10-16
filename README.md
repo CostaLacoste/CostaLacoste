@@ -44,7 +44,7 @@
 
 ### Full-Stack projects:
 * [Perfume e-shop](https://unique-basbousa-c4e8ef.netlify.app/) Code: https://github.com/CostaLacoste/e-commerce
-* * [Food delivery website](https://costalacoste.github.io/Food-delivery-website/) Code: https://github.com/CostaLacoste/Food-delivery-website
+* [Food delivery website](https://costalacoste.github.io/Food-delivery-website/) Code: https://github.com/CostaLacoste/Food-delivery-website
 
 ### Data analysis:
 * [Data exploration scoring](https://github.com/CostaLacoste/Data-exploration-for-financial-scoring)
